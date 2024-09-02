@@ -21,7 +21,7 @@ authenticator_project/
 Clone o repositório para a sua máquina local.
 
 ```bash
-git clone https://github.com/seu-usuario/authenticator_project.git
+git clone [https://github.com/seu-usuario/authenticator_project.git]
 cd authenticator_project
 ```
 
